@@ -6,9 +6,10 @@
     android:orientation="vertical">
 
     <TextView
+        android:gravity="center"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="1111"
-        android:textSize="12sp"/>
+        android:textSize="16sp"/>
 
 </LinearLayout>
